@@ -1,2 +1,2 @@
-# American-Airlines-financial-performance-analysis
-This task involved an analysis of the American Airlines financial performance since 1995. The data was obtained from http://web.mit.edu/airlinedata/www/default.html. 
+# Challenge started - to be updated later
+This task is a data science competition am currently working on. I will update the results here later. 
